@@ -1,0 +1,35 @@
+@font-face {
+    src: url(fonts/SGT-Jhon-O.ttf);
+    font-family: concept ;
+}
+
+h1 
+    {font-family: concept;
+    font-size: 70px;
+    text-align: center;
+    background-color: #343a40;
+    color: rgb(255, 0, 0);
+    }
+h2{
+    font-family:'Bebas Neue', cursive;
+    color: rgb(201, 255, 5) ;
+    background-color: #343a40;
+    text-align: center;
+}
+p
+    {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    color: rgb(201, 255, 5);
+    background-color:  #343a40!important;;
+    text-align: center;
+
+    }
+
+    #image {
+        text-align: center;
+        background-size: 50pc;
+        background-image: url(philadium-cease-operations.png) ;
+    }
+
+

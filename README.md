@@ -1,1 +1,1 @@
-# noequal.github.io
+# Noeql
